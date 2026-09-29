@@ -10,4 +10,4 @@ SELECT DISTINCT user_id , current_plan, monthly_amount current_monthly_amount, m
 FROM query_cte q
 WHERE max_event_date != max_cancel_event_date AND  is_hv_downgrade > 0
 AND days_as_subscriber > 59 AND monthly_amount / CAST(max_historical_amount AS FLOAT)  <= 0.5
-ORDER BY days_as_subscriber DESC, user_id;
+ORDER BY days_as_subscriber DESC, user_id; 
