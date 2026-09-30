@@ -34,21 +34,3 @@ LeetCode--MYSQL/
 │
 └── README.md
 
-<br>
-🎯 Purpose
-
-I created this repository to:
-
-Strengthen my SQL and DBMS fundamentals
-Improve my database problem-solving skills
-Practice SQL problems regularly
-Prepare for technical and coding interviews
-Maintain a structured collection of my LeetCode solutions
-Track my progress in SQL problem-solving
-🚀 Learning Goal
-
-My goal is to build a strong foundation in SQL, MySQL, and DBMS by consistently solving problems and understanding different approaches to database queries.
-
-⭐ Support
-
-If you find this repository useful, feel free to ⭐ Star the repository.
