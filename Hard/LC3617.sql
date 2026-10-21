@@ -37,5 +37,3 @@ group by student_id,pattern_date,cycle_seq_count
 having count(sub_pattern)>1) p join students s on p.student_id=s.student_id
 where (select count(*) from students) >1
 order by cycle_length desc,total_study_hours desc
-
-
